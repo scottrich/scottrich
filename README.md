@@ -1,4 +1,4 @@
 scottrich repo
 
-testing the GitHub commit hook
+testing the GitHub commit hook, again
 =========
