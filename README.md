@@ -1,4 +1,4 @@
 scottrich repo
 
-testing the GitHub commit hook, at night
+testing the GitHub commit hook, at night2
 ========= 
