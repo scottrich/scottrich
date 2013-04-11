@@ -1,4 +1,4 @@
 scottrich repo
 
-testing the GitHub commit hook, at night3
+testing the GitHub commit hook, rainy day mode
 ========= 
